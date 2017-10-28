@@ -1,4 +1,4 @@
-# Treasure Trove
+# 💎 Treasure Trove
 
 ## Programming
 
