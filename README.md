@@ -32,6 +32,7 @@
 ## Digital life
 
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) [article]
+- [How to Disagree](http://paulgraham.com/disagree.html) [article]
 
 ## Living well
 - [How I became a morning person (and why I decided to make the change)](https://medium.com/time-dorks/how-i-became-a-morning-person-and-why-i-decided-to-make-the-change-eb1b012a16e5) [article]
