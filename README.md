@@ -35,6 +35,8 @@
 - [How to Disagree](http://paulgraham.com/disagree.html) [article]
 
 ## Living well
+
+- [Self-Improvement Has Made Me Worse – Personal Growth – Medium](https://medium.com/personal-growth/self-improvement-has-made-me-worse-a4cc23e93e7a) [article] - _must-read for anyone obsessed with self-improvement_
 - [How I became a morning person (and why I decided to make the change)](https://medium.com/time-dorks/how-i-became-a-morning-person-and-why-i-decided-to-make-the-change-eb1b012a16e5) [article]
 - [The 30 second habit with a lifelong impact](https://medium.com/swlh/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98) [article]
 - [Time is The Most Valuable Asset at Your Disposal](https://medium.com/the-mission/time-is-the-most-valuable-asset-at-your-disposal-417c0a3f71eb) [article]
