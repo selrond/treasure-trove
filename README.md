@@ -55,6 +55,7 @@
 - [The System I Used to Write 5 Books and Over 1,000 Blog Posts](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461) [article]
 - [The Power of Writing About the Things You Read](https://medium.com/the-mission/the-power-of-writing-about-the-things-you-read-fc1e81314d0) [article]
 - [This is how you write.](https://medium.com/the-mission/this-is-how-you-write-c7cb9610d97d) [article]
+- [10 years of professional blogging - what I've learned](http://andrewchen.co/professional-blogging/) [article]
 
 ---
 
