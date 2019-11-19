@@ -46,6 +46,10 @@
 
 - [It’s Okay to “Forget” What You Read](https://medium.com/the-polymath-project/its-okay-to-forget-what-you-read-f4ef1c34cc01) [article]
 
+## Creativity and Creating
+
+- [Consume less, create more](https://tjcx.me/posts/consumption-distraction/) [[archive](https://web.archive.org/web/20191119155155/https://tjcx.me/posts/consumption-distraction/)] (article)
+
 ## Writing / Blogging
 
 - [Writing Is Thinking](https://alistapart.com/article/writing-is-thinking) [article] - _potentially life-changing yet practical essay on writing_
