@@ -7,7 +7,7 @@
 
 ## Web Development
 
-- [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) [article] - _THE CSS-in-JS writeup_
+- [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) [[archive](https://web.archive.org/web/20191125183327/https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)] - _THE CSS-in-JS writeup_ (article)
 - [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f) [article]
  
 ## Open Source
